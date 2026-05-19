@@ -39,12 +39,12 @@ Depois digite `claude` e faça login com sua conta Anthropic (necessário plano 
 5. Cole esse prompt:
 
 ```
-Clona o https://github.com/caiocarvalhar/ChefiaOS na pasta atual, entra nela e roda o /instalar.
+Clona o https://github.com/chefiaos/ChefiaOS na pasta atual, entra nela e roda o /instalar.
 ```
 
 **Caminho pelo terminal**
 ```bash
-git clone https://github.com/caiocarvalhar/ChefiaOS.git .
+git clone https://github.com/chefiaos/ChefiaOS.git .
 ```
 Abra a pasta no VS Code, abra o terminal integrado, digite `claude` e depois `/instalar`.
 
